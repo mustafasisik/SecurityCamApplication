@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "20784686507",
+    "firebase_url": "https://gezginim-uygulamam.firebaseio.com",
+    "project_id": "gezginim-uygulamam",
+    "storage_bucket": "gezginim-uygulamam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20784686507:android:8d786305441cab4b7cdeee",
+        "android_client_info": {
+          "package_name": "com.securitycam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20784686507-i97nc4aeoia3crmoi5als30o505ljv8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5VkYYrh4iYg-sT57sETAIU96B7EmaVkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20784686507-i97nc4aeoia3crmoi5als30o505ljv8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
