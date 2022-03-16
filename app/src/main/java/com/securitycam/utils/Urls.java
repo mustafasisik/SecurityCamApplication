@@ -1,7 +1,7 @@
 package com.securitycam.utils;
 
 public class Urls {
-    public static final String APP_URL = "http://134.122.93.176";
+    public static final String APP_URL = "yourdomain";
     public static final String LOGIN_URL = APP_URL + "/api/login";
     public static final String REGISTER_URL = APP_URL +"/api/scregister";
     public static final String PROFILE_URL = APP_URL +"/api/scprofile";
